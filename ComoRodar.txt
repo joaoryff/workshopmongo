@@ -1,0 +1,5 @@
+Abrir terminal e rodar o MongoDB
+
+mongod
+
+http://localhost:8090
